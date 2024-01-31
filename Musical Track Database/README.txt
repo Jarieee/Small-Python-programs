@@ -1,0 +1,1 @@
+This code reads XML file with songs list and their attributes and puts the main information in SQLite database. After creating new database with tables Artist, Album and Track, the code gets names, artists, albums, lengths, play counts and ratings of songs
