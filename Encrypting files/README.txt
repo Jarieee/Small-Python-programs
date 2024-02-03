@@ -21,7 +21,8 @@ with server working.
 This variable is used to save and get
 cipher key to and from vault server.
 
-After that we need to execute encrypt.py.
+After that we need to execute encrypt.py from the
+Command Prompt window where we created the Vault_token variable.
 This will take the original file and encrypt it.
 Next, decrpypt.py takes an encrypted file and decrypts it
 with cipher key, which is taken from vault server
